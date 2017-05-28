@@ -1,0 +1,88 @@
+
+The Psion
+
+In my game the player is a telepath who is held prisoner in some facility and needs to use his/her powers to escape. 
+Guards will follow the player and try to prevent him/her from escaping.
+See help command in the game for a lot of information.
+
+
+
+Walkthrough description. How the game *should* be played:
+
+The player wakes up in a room.
+First the player should go look around in the room, most importantly pick up the 'spellbook' from the desk.
+Examining the desk will add the 'notebook' and 'pen' which can show a map of the in game world and add guards that the player knows.
+Examining the other things may give hints about what the player can do.
+At the door, the player can use the spell 'aurasight' to learn the name of the guard outside.
+After this the player can use demoralize on him. (Command 'spellbook demoralize' describes in game how the spell can be used.)
+If the player tries the spell 'compel', it can serve as an method of unlocking the door. Otherwise the lock can be picked with a hairpin found in the bed.
+
+Once the door is unlocked, the player can go south and will find themselves in a hallway.
+In the hallways and stairways there can be guards. Guards will follow the player character and prevent them from resting etc.
+Guards can be dealt with in multiple ways including running away or using different spells.
+Using 'aurasight' and 'demoralize' (or once learned, 'invisibility',) before entering the area a guard is in it is possible to get around remaining undetected. 
+
+When guards are demoralized they become "items" and when examined they can drop items that the player can pick up.
+After recieving the guard item 'key', the player can examine rooms in the hallways and pick up other random items.
+
+An item named 'card' drops the 3rd time a guard is examined. This item opens the door on the first floor in the  west hallway.
+The player then learns the 4 digit code to get out. The code will drop in item 'memo' from any of the guards in the room, or can be learned using spell 'mindsight'.
+
+This teleports the player back to the original cell (and provides a fun little description). See notes below command walkthrough for more information about different outcomes.
+
+
+
+Fast Walkthrough by commands: 
+
+go east
+take spellbook
+go west
+examine bed
+take hairpin
+go south
+use hairpin
+go south
+run east
+go east
+aurasight
+demoralize Steve
+demoralize Steve
+demoralize John
+demoralize John
+go down
+examine Steve
+examine John
+go west
+demoralize Stan
+demoralize Stan
+examine Stan
+take card
+use card
+aurasight
+mindsight Ted
+use 7783
+go south
+go anywhere
+
+This teleports the player back to the starting cell... (HOWEVER: Inventory and spells and even demroalized guards will be just as they were before the teleport.)
+
+
+
+To "actually" win the payer must do one of these (or both):
+
+Option 1: Collect items ('sheets', 'bottle' and 'fuel') from the rooms (obtain a 'key' from a demoralized guard and then 'examine doors') 
+          and take a 'lighter' from a demoralized guard and assemble a bomb. Then the bomb must be used ('use bomb' or 'use lighter') 
+          in the staff breakroom at the end. 
+	      Instructions for this can be found in game in an item named 'journal' that also drops from the rooms.
+
+Option 2: Cast aurasight once outside, after exiting the staff breakroom and then demoralize the boss, Gwen.
+	      Hints that this is possible can be found in game in a couple items named 'diary' (very vague) and 'paper' that both drop from the rooms.
+
+PS. 'mindsight Gwen' explains a bit of what the point of the story of the game is.
+
+
+FUN STUFF:
+I added a lot of fun items and descriptions for no particular reason but to make the game entertaining and in a way to add a degree of realism too.
+It is probably not possible to play my game only once and figure out everything about it. I tried to cover *most* of the things that are possible in my game here in this walkthrough.
+
+Minna Svartbäck 530619
